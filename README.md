@@ -31,11 +31,8 @@ CalculatorApp/
 
 ---
 
-## 📸 Screenshot
 
-_Add a screenshot here if you like!_
 
----
 
 ## 🧠 Learnings
 
